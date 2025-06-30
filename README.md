@@ -30,17 +30,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/maiconcrespo/maiconcrespo/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/maiconcrespo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=maiconcrespo&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
