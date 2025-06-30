@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maicon Crespo , and I'm working hard to learn the gears and how build on Solana blockchain</p>
+<p align="left">My name is Maicon Crespo , and I'm working hard to learn the gears and how build on Solana blockchain with Turbin3 Builder Cohort</p>
 
 ###
 
